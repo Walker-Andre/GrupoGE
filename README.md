@@ -1,6 +1,6 @@
 # Grupo de Estudos  (HTML)
 
-<img src="https://tab.uol.com.br/noticias/redacao/2019/08/17/estamos-programando-tudo-a-nossa-volta-ja-pensou-nisso.htm" alt="exemplo imagem">
+<img src="prog.jpg" alt="exemplo imagem">
 
 > Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
 
