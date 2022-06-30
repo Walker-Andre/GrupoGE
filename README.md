@@ -1,18 +1,9 @@
 # Grupo de Estudos  (HTML)
 
-<img src="prog.jpg" alt="Programacao" width="20%">
+<img src="prog.jpg" alt="Programacao" width="30%">
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+> Projeto de formação de professores para se tornarem multiplicadores dos saberes de programação de HTML. 
 
-### Ajustes e melhorias
-
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
-
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
 
 ## 💻 Pré-requisitos
 
